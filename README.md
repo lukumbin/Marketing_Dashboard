@@ -2,8 +2,7 @@
 Dynamic marketing dashboard with PowerBI which anaylses marketing trends over time using sample data. 
 
 ## 📊 Dashboard Preview
-![Sales Performance Dashboard](Sales_Performance_Dashboard/PowerBI/Sales_Dashboard_Screenshot.png)
-
+<img width="1202" height="674" alt="Screenshot 2025-11-15 192445" src="https://github.com/user-attachments/assets/ad661113-0d4a-4647-9126-aad891ecbbb6" />
 
 ## 📈 Dashboard Features
 - Ad - level perfromance metrics
