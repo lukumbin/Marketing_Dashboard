@@ -1,5 +1,5 @@
-# Marketing_Dashboard
-Dynamic marketing dashboard with PowerBI which anaylses marketing trends over time. 
+# Marketing Dashboard
+Dynamic marketing dashboard with PowerBI which anaylses marketing trends over time using sample data. 
 
 ## 📊 Dashboard Preview
 ![Marketing_Dashbaord](PowerBI/Screenshot 2025-11-15 192445.png)
